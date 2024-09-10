@@ -1,4 +1,4 @@
-const favoriteMovie = "animal";  
+const favoriteMovie = "animal";
 
 let guess=prompt("Enter my favorite movie");
 
