@@ -7,8 +7,13 @@ while((favoriteMovie != guess) && (guess != 'quit'))
     console.log("Oops! You entered wrong movie");
     guess=prompt(" Wrong , Please think again my favorite movie");
 }
-console.warn("Yehhh , you guesss right")
-
+if(guess==favoriteMovie)
+{
+    console.warn("Yehhh , you guesss right")
+}
+else if(guess=='quit')
+{
+    console.log("You quit")
 
 // options tell someone: 
 // 1.victory
