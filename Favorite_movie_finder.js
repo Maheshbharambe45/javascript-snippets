@@ -14,6 +14,7 @@ if(guess==favoriteMovie)
 else if(guess=='quit')
 {
     console.log("You quit")
+}
 
 // options tell someone: 
 // 1.victory
