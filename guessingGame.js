@@ -14,11 +14,15 @@ while(true)
      }
      else if(guess==random)
      {
-        console.log('You guess right');
+        console.log('You guess right the number was',random);
         break;
      }
-     else
+     else if(guess<random)
      {
-       guess = prompt("Your guess is Wrong pleasse try again");
+       guess = prompt("Hint : Your enter the small number than correct answer");
      }
+     else if(guess<random)
+    {
+        guess = prompt("Hint : Your enter the big number than correct answer");
+    }
 }
