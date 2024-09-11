@@ -2,4 +2,5 @@
 <h3>In this repo i store my day to day code created in javascript</h3>
 
 <p>To generate random numbers by math object</p>
-![Screenshot 2024-09-11 220423](https://github.com/user-attachments/assets/b8eacf06-0a29-4203-91b5-3420c568cc12)
+![code-snapshot](https://github.com/user-attachments/assets/3f54b607-3b1e-4337-a160-8f093d508b82)
+
